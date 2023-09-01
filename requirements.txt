@@ -1,3 +1,6 @@
+# Example: pip install -r requirements.txt
+
 altair
 pandas
 streamlit
+requests
